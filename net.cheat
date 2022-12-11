@@ -1,0 +1,4 @@
+% net
+
+# find process binding on port
+lsof -i :<port>
